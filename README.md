@@ -1,2 +1,2 @@
-# EMS-EmployeeTraker
+# ems-employee-tracker
 Employee Management System
