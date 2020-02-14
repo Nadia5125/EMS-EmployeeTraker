@@ -8,7 +8,7 @@ const db = new Database({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "nadia5125#$CTT",
+    password: "YOUR PASSWORD",
     database: "employee_db"
   });
   
